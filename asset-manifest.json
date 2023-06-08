@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/age-predictor-react/static/css/main.34921944.css",
+    "main.js": "/age-predictor-react/static/js/main.c6586dd9.js",
+    "static/js/787.2e01738c.chunk.js": "/age-predictor-react/static/js/787.2e01738c.chunk.js",
+    "index.html": "/age-predictor-react/index.html",
+    "main.34921944.css.map": "/age-predictor-react/static/css/main.34921944.css.map",
+    "main.c6586dd9.js.map": "/age-predictor-react/static/js/main.c6586dd9.js.map",
+    "787.2e01738c.chunk.js.map": "/age-predictor-react/static/js/787.2e01738c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34921944.css",
+    "static/js/main.c6586dd9.js"
+  ]
+}
